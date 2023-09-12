@@ -1,0 +1,14 @@
+../Core/Src/Led_effect.c:15:6:led_effect_stop	24	static
+../Core/Src/Led_effect.c:24:6:led_effect	32	static
+../Core/Src/Led_effect.c:31:6:turn_off_all_leds	8	static
+../Core/Src/Led_effect.c:39:6:turn_on_all_leds	8	static
+../Core/Src/Led_effect.c:47:6:LED_effect1	8	static
+../Core/Src/Led_effect.c:53:6:turn_off_two_leds	8	static
+../Core/Src/Led_effect.c:61:6:turn_on_two_leds	8	static
+../Core/Src/Led_effect.c:69:6:LED_effect2	8	static
+../Core/Src/Led_effect.c:76:6:turn_off_up_leds	8	static
+../Core/Src/Led_effect.c:98:6:turn_on_up_leds	8	static
+../Core/Src/Led_effect.c:120:6:LED_effect3	8	static
+../Core/Src/Led_effect.c:127:6:turn_off_down_leds	8	static
+../Core/Src/Led_effect.c:149:6:turn_on_down_leds	8	static
+../Core/Src/Led_effect.c:171:6:LED_effect4	8	static

@@ -1,0 +1,4 @@
+rtc.c:11:6:show_time_date	2
+rtc.c:42:6:rtc_configure_time	1
+rtc.c:52:6:rtc_configure_date	1
+rtc.c:56:5:validate_rtc_information	10
